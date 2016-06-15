@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-freelint-jsx",
+  "version": "1.0.0",
+  "description": "a custom jsx eslint rules config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zslucky/eslint-config-freelint-jsx.git"
+  },
+  "author": "Lucky Zhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zslucky/eslint-config-freelint-jsx/issues"
+  },
+  "homepage": "https://github.com/zslucky/eslint-config-freelint-jsx",
+  "peerDependencies": {
+    "eslint": "^2.12.0",
+    "eslint-plugin-react": ">=2.7.1"
+  }
+}
